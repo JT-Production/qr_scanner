@@ -40,12 +40,12 @@ const _layout = () => {
         options={{
           headerShown: false,
           tabBarIcon: ({ focused }) => (
-            <AntDesign
-              name="scan"
-              size={30}
-              color="white"
-              iconStyle="solid"
-            />
+            // <AntDesign
+            //   name="scan"
+            //   size={30}
+            //   color="white"
+            //   iconStyle="solid"
+            // />
           ),
         }}
       />
