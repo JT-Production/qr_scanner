@@ -39,14 +39,14 @@ const _layout = () => {
         name="home"
         options={{
           headerShown: false,
-          tabBarIcon: ({ focused }) => (
-            // <AntDesign
-            //   name="scan"
-            //   size={30}
-            //   color="white"
-            //   iconStyle="solid"
-            // />
-          ),
+          // tabBarIcon: ({ focused }) => (
+          //   // <AntDesign
+          //   //   name="scan"
+          //   //   size={30}
+          //   //   color="white"
+          //   //   iconStyle="solid"
+          //   // />
+          // ),
         }}
       />
       <Tabs.Screen
